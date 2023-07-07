@@ -1,10 +1,10 @@
 # CheckWeb
 
 
-script de instalação 
+# SCRIPT PARA INSTALAÇÃO
 
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/CheckWeb/main/install.sh) && Web
 ```
 
-depois Rode o comando  Web
+DEPOIS DA INSTALAÇÃO EXECUTE O COMANDO  Web 
