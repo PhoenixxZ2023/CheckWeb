@@ -1,0 +1,13 @@
+{
+  "Background": "https://i.imgur.com/XHJ6Us6.jpg",
+  "Logo": {
+    "Img": "https://i.imgur.com/lDsXc7M.png",
+    "TanX": "120px",
+    "TanY": "120px",
+    "NameLogo": "VIPssh",
+    "Fundo": {
+      "TanX": "140px",
+      "TanY": "140px"
+    }
+  }
+}

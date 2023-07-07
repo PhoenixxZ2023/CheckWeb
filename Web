@@ -1,0 +1,7 @@
+cd ~/CheckWeb/pages
+
+echo "Digite a porta que deseja usar:"
+ip=$(ip addr show eth0 | grep -oP 'inet \K[\d.]+'
+)
+read porta
+screen -S CheckWeb -dm php -S $ip:$porta
