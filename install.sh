@@ -24,7 +24,7 @@ apt install php -y
 apt install screen -y
 
 
-git clone https://github.com/MTplusWebSystem/CheckWeb > /dev/null
+git clone https://github.com/PhoenixxZ2023/CheckWeb > /dev/null
 cd CheckWeb
 chmod 777 Web
 mv Web /bin
